@@ -1,6 +1,5 @@
 # Employee-Performance-Prediction-Machine-Learning
-Analyzed INX Employee Data to Predict Performance and Develop Actionable HR Solutions
-IABAC Project – Employee Performance Prediction
+
 
 Analyzed employee performance data to predict outcomes and develop practical organizational insights.
 This machine learning project applies classification models to assess employee performance and provide data-driven recommendations.
